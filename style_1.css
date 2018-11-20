@@ -1,0 +1,11 @@
+#t0{
+  border: 1px solid green;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+#t0 div{
+  border: 1px solid green;
+  text-align: center;
+  padding: 5px;
+  margin: 0;
+}
